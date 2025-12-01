@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+> Materi: https://fajarbaskoro.blogspot.com/2017/05/membuat-game-pong-java.html
+> Dokumentasi (Blogspot): https://5025241239.blogspot.com/2025/12/pbo-pertemuan-14.html
